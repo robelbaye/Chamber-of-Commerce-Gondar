@@ -1,6 +1,4 @@
 # Chamber-of-Commerce-Gondar
-<<<<<<< HEAD
-
 A responsive, professional, and customizable web application for the Chamber of Commerce Gondar.
 
 ## Features
